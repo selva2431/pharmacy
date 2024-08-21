@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:  border-box;
+}
+.my_slider_cart{
+  border-radius: 12px;
+}
+.mySwiper{
+  margin-top: 15px;
+}
+.swiper-slide{
+    border-radius: 6px;
+}
+@media only screen and (max-width: 600px) {
+    .swiper_display {
+      display: none;
+    }
+  }
